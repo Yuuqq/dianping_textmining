@@ -1,0 +1,16 @@
+# Resuming state
+大众点评爬虫/xuchuan.txt
+大众点评爬虫/xuchuan.json
+
+# Environment variables
+.env
+
+# PII and Licensing
+文本分析挖掘/data.csv
+文本分析挖掘/msyh.ttc
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
